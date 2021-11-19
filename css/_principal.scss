@@ -1,0 +1,44 @@
+.main{
+
+  width: 70%;
+  background: #fff;
+  float: left;
+
+  .imagen{
+
+    width: 100%;
+
+    img{
+
+      vertical-align: top;
+      width: 100%;
+
+    }
+
+  }
+
+  .posts{
+
+    padding: 40px;
+
+    article{
+
+      h2{
+
+        margin-bottom: 20px;
+        color: #424242;
+
+      }
+
+      p{
+
+        margin-bottom: 14px;
+        line-height: 27px;
+
+      }
+
+    }
+
+  }
+
+}
